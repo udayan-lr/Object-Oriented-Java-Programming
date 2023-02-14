@@ -1,4 +1,3 @@
-import java.util.*;
 class natural10
 {
     public static void main(String[] args)

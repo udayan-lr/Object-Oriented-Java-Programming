@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.Math;
 class square
 {
 	public static void main(String[] args) {
